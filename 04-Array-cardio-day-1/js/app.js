@@ -55,11 +55,11 @@ window.addEventListener(`DOMContentLoaded`, () => {
 
   // 6. create a list of Boulevards in Paris that contain 'de' anywhere in the name
   // https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris
-  // const fullList = document.querySelector(`.mw-category`),
-  //   links = [...fullList.querySelectorAll(`a`)],
-  //   de = links.map(link => link.textContent)
-  //     .filter(item => item.includes(`de`));
-  // console.log(de);
+  const fullList = document.querySelector(`.mw-category`),
+    links = [...fullList.querySelectorAll(`a`)],
+    de = links.map(link => link.textContent)
+      .filter(item => item.includes(`de`));
+  console.log(de);
 
 
   // 7. sort Exercise
