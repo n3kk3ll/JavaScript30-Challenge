@@ -20,3 +20,7 @@ Things I worked with today:
 * CSS variables
 * Array methods - applied to input:range NodeList (e.g. Array.forEach). Of course, that NodeList isn't a real array.
 * ``this`` keyword provides me more flexibility in my script, but it is necessary to understand a context where this keyword is used to not get undefined
+
+## Day 04 - Array methods
+Today I got practice with array methods such as .map, .filter, .reduce, .sort. I sorted people by their last names, created a new array included only their first and last names, filtered them by their birth year, etc.
+The thing I realized after today's exercises, it is that I need more of that stuff. It is very interesting thing and a bit hard for me to understand instantly.
