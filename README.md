@@ -24,3 +24,11 @@ Things I worked with today:
 ## Day 04 - Array methods
 Today I got practice with array methods such as .map, .filter, .reduce, .sort. I sorted people by their last names, created a new array included only their first and last names, filtered them by their birth year, etc.
 The thing I realized after today's exercises, it is that I need more of that stuff. It is very interesting thing and a bit hard for me to understand instantly.
+
+## Day 05 - Panels Gallery
+In today's project I refreshed my memory in CSS Flexbox tech. When one of slides clicked, it grows and opens all info inside of it.
+What was used here:
+* JavaScript classList method
+* JavaScript events
+* CSS Flexbox properties
+* CSS Transition
