@@ -32,3 +32,11 @@ What was used here:
 * JavaScript events
 * CSS Flexbox properties
 * CSS Transition
+
+## Day 06 - AJAX Filter Cities
+Today I worked with asynchronous JavaScript tech called AJAX. The project's idea is to show the only cities or states those part of name user typed.
+I used here:
+* fetch() to get data from remote server
+* Regular Expressions to handle values user typed
+* Array methods as usual
+* Dynamic HTML Markup with JavaScript to instantly display results on the page 
