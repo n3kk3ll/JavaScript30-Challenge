@@ -40,3 +40,9 @@ I used here:
 * Regular Expressions to handle values user typed
 * Array methods as usual
 * Dynamic HTML Markup with JavaScript to instantly display results on the page 
+
+## Day 07 - Array methods (p.2)
+* every() / some() methods to check is every/some value satisfies the condition
+* find() method to return an element satisfies the condition
+* findIndex() method to return an index of the searched element
+Every task is wrapped in a function for more flexibility
