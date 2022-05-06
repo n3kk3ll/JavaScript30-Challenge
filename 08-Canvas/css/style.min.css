@@ -1,0 +1,2 @@
+*,*::before,*::after{margin:0;padding:0;-webkit-box-sizing:border-box;box-sizing:border-box}body{margin:0;padding:0;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-flow:column nowrap;flex-flow:column nowrap;-webkit-box-align:center;-ms-flex-align:center;align-items:center;min-height:100vh;color:#fff;font-size:24px;font-family:Arial, Helvetica, sans-serif}body #canvas{width:100%;height:100%}
+/*# sourceMappingURL=style.min.css.map */
