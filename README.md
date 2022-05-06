@@ -47,3 +47,6 @@ I used here:
 * findIndex() method to return an index of the searched element
 
 Every task is wrapped in a function for more flexibility
+
+## Day 08 - Fun with canvas
+Today I practiced with HTML5 canvas and did the funniest and the most simple thing with it. You can draw on the page! Just keep your LMB pressed and get fun!
